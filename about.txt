@@ -1,1 +1,3 @@
 Denne fil er om min app.
+
+My app is fantastic!
